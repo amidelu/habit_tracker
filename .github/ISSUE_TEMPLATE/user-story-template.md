@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-**Title:**
 _As a [user role], I want [feature/goal], so that [reason]._
 
 **Acceptance Criteria:**
